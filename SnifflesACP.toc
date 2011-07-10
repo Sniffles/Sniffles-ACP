@@ -1,0 +1,12 @@
+## Interface: 40200
+## Author: Sniffles
+## Title: |cffC495DDSniffles ACP|r
+## Notes: An Addon Control Panel
+## RequiredDeps: Tukui
+## Credits: Tukz, Elv22
+
+vars.lua
+functions.lua
+cfg.lua
+locale.lua
+acp.lua
